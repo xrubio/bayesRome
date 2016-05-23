@@ -1,6 +1,4 @@
 
-Supplementary Information 2
-
 Dataset and source code for the paper entitled 'Bayesian analysis suggests the existence of free market structures within the Roman Empire'
 
 Structure is defined as follows:
