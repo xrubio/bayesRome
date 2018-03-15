@@ -1,7 +1,7 @@
 
 Dataset and source code for the paper:
 
-Rubio-Campillo, X., Coto-Sarmiento, M., Pérez-Gonzalez, J. and Remesal Rodríguez, J. (2017) **Bayesian analysis and free market trade within the Roman Empire**, _Antiquity_, Cambridge University Press, 91(359), pp. 1241–1252. [doi:10.15184/aqy.2017.131](https://doi.org/10.15184/aqy.2017.131)
+Rubio-Campillo, X., Coto-Sarmiento, M., Pérez-Gonzalez, J. and Remesal Rodríguez, J. (2017) **Bayesian analysis and free market trade within the Roman Empire**, _Antiquity_, 91(359), pp. 1241–1252. [doi:10.15184/aqy.2017.131](https://doi.org/10.15184/aqy.2017.131)
 
 Structure is defined as follows:
 
