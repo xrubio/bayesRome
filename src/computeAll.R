@@ -1,5 +1,5 @@
 library(plyr)   
-library(R2jags)
+library(R2jags) #not that you will need jags to be installed on your computer before to be able to install R2jags
 
 initsListM1 = function()
 {
@@ -23,7 +23,7 @@ initsListM4 = function()
 
 runModels <- function(numRun)
 {
-    myDataName <- paste(paste('../data/singleRun.csv', sep="")
+    myDataName <- '../data/singleRun.csv'
     myData <- read.csv(myDataName, sep=";", header=T)
     freqs <- count(myData, c('stamp'))
     Ntotal = nrow(freqs)    
